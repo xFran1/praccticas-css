@@ -6,6 +6,8 @@ body{
     margin: 0;
     box-sizing: border-box;
     font-family: sans-serif;
+    background-attachment:fixed ;
+    background-image: url(img/img2.webp);
 }
 
 header{
@@ -15,7 +17,9 @@ header{
     width: 100%;
     z-index: 2;
 }
-
+.container-img-2{
+    height: 100vh;
+}
 .header-container{
     
     color: white;
